@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+@font-face {
+  font-family: 'Yekan';
+  src: url('https://shahraksanatishk.ir/fonts/Yekan.ttf') format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+font-face {
+  font-family: "Vazir";
+  src: url("https://shahraksanatishk.ir/fonts/Vazir.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
