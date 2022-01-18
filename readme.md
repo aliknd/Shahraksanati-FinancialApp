@@ -9,7 +9,7 @@
 
 ## About Shahraksanati Project
 
-Shahraksanati is a financial application, that has been made from scratch based on Laravel framework. It has been designed for a major company with more than 700 companies to be managed financially in an industrial region. This system issues water bills in an incremental manner according to the amount of the consumption. Each company also will be assigned in a group based on its specification, and other services will be charged upon the group, and even individually. This system also has a comprehensive report feature, which makes the financial management of this service easy for both the major company and its users.
+Shahraksanati is a financial application, that has been made from scratch based on a Restful API system from Laravel framework. It has been designed for a major company with more than 700 companies to be managed financially in an industrial region. This system issues water bills in an incremental manner according to the amount of the consumption. Each company also will be assigned in a group based on its specification, and other services will be charged upon the group, and even individually. This system also has a comprehensive report feature, which makes the financial management of this service easy for both the major company and its users.
 
 ## Implementation Instructions
 
