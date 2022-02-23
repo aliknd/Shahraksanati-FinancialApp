@@ -13,7 +13,7 @@ Shahraksanati is a financial application, that has been made from scratch based 
 
 Here is the graphic representation of the application:
 1) Live search through the companies with the capability of editing users (companies) and their specifications, issuing and calling bills (both consumption and payments), and the ability to see how many bills have not been paid so far.
-   <img src="https://shahraksanatishk.ir/img/1.png">
+   <br> <img src="https://shahraksanatishk.ir/img/1.png"> <br>
 2) This is an example of issuing consumption bills, that is receiving all required fields automatically from the previous registered records specific to the company to make issuing the new bills very easy for the operator. The operator only needs to enter the current amount of water consumption that has been recorded newly, and then the system takes care of all other processes to issue the final bill (specific to the company with the specific features this company has, that has been predefined by the system administrator – for example one feature is when the company is larger the amount of water consumption and the taxes that will be charges are also in a bigger amount!)
    <img src="https://shahraksanatishk.ir/img/2.png">
 3) The issued bills samples are as follows, that the first one is regular bill that will be sent to the user profile as well, that the user can see their new bills in order to pay. The first image is a bill without warning, because the user has already paid all of the previous bills:
