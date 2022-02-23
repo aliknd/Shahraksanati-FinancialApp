@@ -20,7 +20,7 @@ The default IDE used for this project is phpstorm. For implementing this project
 
 To make this even easier I also put a sample sql file that you can use!
 
-<img src="img/1.png">
+<img src="https://shahraksanatishk.ir/img/1.png">
 
 ## License
 
