@@ -22,6 +22,10 @@
         font-weight: 400;
         src: url('/public/fonts/Yekan.ttf');
     }
+    p {
+        text-align: justify;
+        text-justify: inter-word;
+    }
 </style>
 </head>
 <body style="font-family: 'B Yekan'">
@@ -74,15 +78,14 @@
 <section id="aboutUs"><!--Aboutus-->
 <div class="inner_wrapper">
   <div class="container">
-    <h2>درباره ما</h2>
     <div class="inner_section">
 	<div class="row">
       <div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right"><img src="home/img/about-img.jpg" class="img-circle delay-03s animated wow zoomIn" alt=""></div>
       	<div class=" col-lg-7 col-md-7 col-sm-7 col-xs-12 pull-left">
         	<div class=" delay-01s animated fadeInDown wow animated">
-			<h3>سریع و مطمئن در جهت ارائه خدمات...</h3><br/>
+			<h2>سریع و مطمئن در جهت ارائه خدمات...</h2><br/>
             <p>این شرکت در سال 1373 در جهت ارائه ی خدمات مدیریتی و آبرسانی به شرکت های وابسته در منطقه قطب صنعتی شهرکرد فعالیت خود را آغاز نمود. از جمله فعالیت های این شرکت می توان به سمان دهی امور مربوط بخ شرکت های زیر مجموعه و مدیریت تامین منابع این منطقه ی بزرگ و تجاری ذکر کرد که تا به امروزه اهم بر این موضوع به بالاترین حد و کیفیت خود بوده و می باشد.</p> <br/>
-<p>این موسسه در طول زمان فعالیت های خود تا به امروز تمامأ بر اصل مشتری مداری پایبند بوده و همیشه زمان دریافت نیروی کار بسیار حساس و جدی همکاری خود را با پرسنل آغاز نموده و به محض اینکه شخص شرایط همکاری مورد تایید موسسه را نداشته از لیست خارج نموده .</p>
+            <p>این موسسه در طول زمان فعالیت های خود تا به امروز تمامأ بر اصل مشتری مداری پایبند بوده و همیشه زمان دریافت نیروی کار بسیار حساس و جدی همکاری خود را با پرسنل آغاز نموده و به محض اینکه شخص شرایط همکاری مورد تایید موسسه را نداشته از لیست خارج نموده .</p>
 <br>
                 <p>
                     شهرک‌های صنعتی چهارمحال و بختیاری به منظور افزایش ایجاد اشتغال پایدار و مولد در استان نیازمند توجه بیشتر به سرمایه‌گذاری در شهرک‌های صنعتی است، از همین رو تمام تلاش مدیران باید در راستای رفع مشکلات و تنگناهایی که گریبانگیر صنعتگران شده، باشد و نمایندگان مردم استان در مجلس شورای اسلامی نیز پیگیری‌های لازم را در این زمینه انجام خواهند داد.
@@ -90,15 +93,11 @@
             </div>
 <div class="work_bottom"> <span>جهت اطلاعات بیشتر با ما در تماس باشید...</span> <a href="#contact" class="contact_btn">تماس با ما</a> </div>
 	   </div>
-
       </div>
-
-
     </div>
   </div>
   </div>
 </section>
-<!--Aboutus-->
 
 
 <!--Service-->
@@ -134,14 +133,6 @@
 </section>
 <!--Service-->
 
-
-
-
-
-
-
-
-
 <!--Footer-->
 <footer class="footer_wrapper" id="contact">
   <div class="container">
@@ -176,8 +167,6 @@
                                 <p>info@shahraksanatishk.ir</p>
                             </div>
                         </div>
-
-
 
           <ul class="social_links">
             <li class="twitter animated bounceIn wow delay-02s"><a href="javascript:void(0)"><i class="fa fa-twitter"></i></a></li>
