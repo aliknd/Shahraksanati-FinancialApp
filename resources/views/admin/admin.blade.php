@@ -15,19 +15,16 @@
                     <input type="text" name="search" id="search" class="form-control" placeholder="جستجوی اطلاعات شرکت ها" />
                 </div>
                 <div class="table-responsive">
-                    <h3 align="center">مقادیر کلی <span id="total_records"></span></h3>
+
                     <table class="table table-striped table-bordered text-center" style="font-family: Vazir; font-size: 10px;">
                         <thead class="bg-dark text-white">
                         <tr>
                             <th class="text-center">شناسه</th>
                             <th class="text-center">نام</th>
-                            <th class="text-center">شماره پرونده</th>
-                            <th class="text-center">شماره تلفن</th>
-                            <th class="text-center">متراژ</th>
-                            <th class="text-center">قطر انشعاب</th>
-                            <th class="text-center">آدرس ایمیل</th>
+
+
                             <th class="text-center">انشعاب فاضلاب</th>
-                            <th class="text-center">فاز</th>
+
                             <th class="text-center">صدور قبض جدید</th>
                             <th class="text-center">صدور دستی پرداخت</th>
                             <th class="text-center">فراخوانی قبض</th>

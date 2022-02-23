@@ -74,13 +74,10 @@ class LiveSearch extends Controller
         <tr>
          <td>'.$row->id.'</td>
          <td>'.$row->name.'</td>
-         <td>'.$row->sharednumber.'</td>
-         <td>'.$row->telephone.'</td>
-         <td>'.$row->metrazh.'</td>
-         <td>'.$row->pipediameter.'</td>
-         <td>'.$row->email.'</td>
+
+
          <td>'. $sanit.'</td>
-         <td>'.$row->phase.'</td>
+
          <td><a href="/newdebt/'.$row->id.'">صدور قبض جدید</a></td>
          <td><a href="/p/createtable/'.$row->id.'">صدور دستی پرداخت</a></td>
          <td><a href="/fetchdebtbill/'.$row->id.'">فراخوانی قبض</a></td>

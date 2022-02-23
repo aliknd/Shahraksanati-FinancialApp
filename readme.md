@@ -20,6 +20,8 @@ The default IDE used for this project is phpstorm. For implementing this project
 
 To make this even easier I also put a sample sql file that you can use!
 
+<img src="img/1.png">
+
 ## License
 
 You are free to use and develop this project for similar usage. Just email me in this address: alkarg@utu.fi before and describe briefly what you are going to do!
