@@ -33,10 +33,14 @@ Here is the graphic representation of the application:
 
 The default IDE used for this project is phpstorm. For implementing this project you need to just clone this repository into your local IDE, edit .env file and put your DB information in it, and run the following commands:
 
-1) composer install
-2) npm install
-3) php artisan key:generate
-4) php artisan serve
+```sh
+$ git clone https://github.com/aliknd/Shahraksanati-FinancialApp.git
+$ cd Shahraksanati-FinancialApp
+$ composer install
+$ npm install
+$ php artisan key:generate
+$ php artisan serve
+```
 
 To make this even easier I also put a sample sql file that you can use!
 
